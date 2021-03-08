@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2021-03-09 00:04:48 +0800`
+ `更新时间：2021-03-09 01:27:31 +0800`
 
 ## 热议话题
 
@@ -19,8 +19,8 @@
 1. [早晨看到件让人气愤的事](https://www.v2ex.com/t/759433)
 1. [王妈说：“伟宝，你去哪啊？”](https://www.v2ex.com/t/759427)
 1. [用 redis 做分布式锁这种骚操作是怎么流行起来的？](https://www.v2ex.com/t/759583)
-1. [短视频对老年人影响真的挺大的](https://www.v2ex.com/t/759529)
 1. [基金已经开始亏钱了](https://www.v2ex.com/t/759578)
+1. [短视频对老年人影响真的挺大的](https://www.v2ex.com/t/759529)
 1. [花了点时间写了个 macOS 下的动态壁纸,来发一下兑换码](https://www.v2ex.com/t/759603)
 1. [我们用一年的时间，打造了最有逼格的热榜网站 the.top](https://www.v2ex.com/t/759615)
 1. [苦于 vue3 生态太差，去看了看 react 文档](https://www.v2ex.com/t/759655)
