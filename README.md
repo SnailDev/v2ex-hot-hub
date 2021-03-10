@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2021-03-10 17:03:06 +0800`
+ `更新时间：2021-03-10 18:03:22 +0800`
 
 ## 热议话题
 
@@ -21,7 +21,7 @@
 1. [村通网，原来 iPhone 长按底部空白处可以移动光标](https://www.v2ex.com/t/760275)
 1. [大家怎么看待企业/公司的 KPI 员工绩效排名和末位淘汰制度？](https://www.v2ex.com/t/760172)
 1. [API 文档大家是怎么生成的?](https://www.v2ex.com/t/760196)
-1. [套路云(tx)真这么垃圾？](https://www.v2ex.com/t/760169)
+1. [大佬们 2015 15 寸 MacBook Pro 和 13 寸金色 M1 选哪个](https://www.v2ex.com/t/760220)
 
 ## 历史归档
 
