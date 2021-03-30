@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2021-03-30 22:09:04 +0800`
+ `更新时间：2021-03-30 23:09:06 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [苏伊士运河模拟器](https://www.v2ex.com/t/766518)
 1. [阿里云现在的工单处理好慢，要快的话只能买极速工单包吗？收费好贵](https://www.v2ex.com/t/766527)
 1. [大家开车使用的是什么导航？ carplay？ carlife?](https://www.v2ex.com/t/766561)
-1. [google 的一个小众工具 keep 有替换品，竞品，或者增强版么？](https://www.v2ex.com/t/766397)
-1. [微信 3.0 已经上架 Mac App Store，仍然未适配 Apple silicon](https://www.v2ex.com/t/766312)
 1. [看完《孤单又灿烂的神-鬼怪》有点出不来了](https://www.v2ex.com/t/766342)
+1. [google 的一个小众工具 keep 有替换品，竞品，或者增强版么？](https://www.v2ex.com/t/766397)
+1. [常年投诉垃圾短信后，很多验证码收不到了](https://www.v2ex.com/t/766399)
 
 ## 历史归档
 
