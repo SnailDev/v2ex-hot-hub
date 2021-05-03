@@ -11,15 +11,15 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2021-05-03 10:00:54 +0800`
+ `更新时间：2021-05-03 11:13:59 +0800`
 
 ## 热议话题
 
 1. [JavaScript 中到底加不加分号？](https://www.v2ex.com/t/774657)
 1. [Google Map 中国大陆的数据是不是不会再更新了](https://www.v2ex.com/t/774611)
 1. [iPad Pro 11 寸 or12.9 寸，大家是怎么取舍的。](https://www.v2ex.com/t/774662)
-1. [工作十年，收入终于突破 1 狗了。我怕随着我技术越来越厉害，会不会越来越少公司能请得起我。](https://www.v2ex.com/t/774667)
 1. [今年第一次接到诈骗电话，被报出个人信息，感觉很不爽](https://www.v2ex.com/t/774623)
+1. [工作十年，收入终于突破 1 狗了。我怕随着我技术越来越厉害，会不会越来越少公司能请得起我。](https://www.v2ex.com/t/774667)
 1. [关于 https 双向认证的细节](https://www.v2ex.com/t/774653)
 1. [百度搜了下居然没有，“兜底”这个词怎么用英文表达？我想弄个兜底 Servlet，对所有没有 mapping 的 request-uri 自己处理，这个兜底你会翻译成啥？](https://www.v2ex.com/t/774649)
 1. [MAC 有什么下 BT 的软件吗，迅雷开了会员速度也跑不满 而且有好多直接没速度](https://www.v2ex.com/t/774673)
