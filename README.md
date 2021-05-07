@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2021-05-07 22:03:19 +0800`
+ `更新时间：2021-05-07 23:03:14 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [我们学最新的技术和概念，写优雅的代码和注释是为了什么？](https://www.v2ex.com/t/775329)
 1. [VSCode 的这个叫做 Solarized Light 的配色主题很有 Notion 的感觉](https://www.v2ex.com/t/775399)
 1. [最近家里养猫咪的困扰](https://www.v2ex.com/t/775462)
-1. [一封让我很高兴的邮件](https://www.v2ex.com/t/775291)
+1. [开发同事说话总喜欢带个“吧”字，感觉被冒犯了！](https://www.v2ex.com/t/775483)
 
 ## 历史归档
 
