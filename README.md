@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2021-05-19 00:13:33 +0800`
+ `更新时间：2021-05-19 01:38:00 +0800`
 
 ## 热议话题
 
@@ -20,11 +20,11 @@
 1. [程序员又要上电视了](https://www.v2ex.com/t/777581)
 1. [是否有必要买一台 4000+ NAS](https://www.v2ex.com/t/777677)
 1. [IDEA 十分卡慢，求大佬告知如何优化](https://www.v2ex.com/t/777670)
-1. [部署静态网站+备案+自动 https，哪个平台最友好？不想一堆配置、管理服务器](https://www.v2ex.com/t/777564)
 1. [彩虹🌈表带来了](https://www.v2ex.com/t/777568)
 1. [安卓”阅读“的 iOS 版”源阅读“](https://www.v2ex.com/t/777592)
 1. [美团外卖的程序员都不验证服务器时间吗？](https://www.v2ex.com/t/777611)
 1. [消息称苹果全新 MacBook Pro 14/16 英寸将推迟发布](https://www.v2ex.com/t/777633)
+1. [写了一款效率提升社交产品](https://www.v2ex.com/t/777651)
 
 ## 历史归档
 
