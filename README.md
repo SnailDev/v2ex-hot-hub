@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2021-06-15 13:09:46 +0800`
+ `更新时间：2021-06-15 14:05:00 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,10 @@
 1. [朋友圈看到一张图，请 v 友判断一下这是什么车？ 啥价位的](https://www.v2ex.com/t/783359)
 1. [量化交易 是不是 皇帝的新衣？ 回测是不是自我陶醉？](https://www.v2ex.com/t/783325)
 1. [M1 开盖秒唤醒的工作原理竟是系统偷偷运作？](https://www.v2ex.com/t/783420)
-1. [彦祖们，写 CRUD 的时候会使用设计模式吗？](https://www.v2ex.com/t/783300)
-1. [后端接口如何做版本控制？](https://www.v2ex.com/t/783333)
 1. [请问目前 iOS 15 DB1 可以日常使用了吗](https://www.v2ex.com/t/783346)
+1. [后端接口如何做版本控制？](https://www.v2ex.com/t/783333)
 1. [等一个 apple tv 国行 24 期免息](https://www.v2ex.com/t/783394)
+1. [国行 Xbox Series X 体验](https://www.v2ex.com/t/783461)
 
 ## 历史归档
 
