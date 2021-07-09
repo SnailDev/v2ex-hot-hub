@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2021-07-09 18:04:19 +0800`
+ `更新时间：2021-07-09 19:03:13 +0800`
 
 ## 热议话题
 
@@ -19,9 +19,9 @@
 1. [ToDesk 存在安全漏洞，可无密码远程控制设备，请谨慎使用](https://www.v2ex.com/t/788413)
 1. [黑 ToDesk 的回应](https://www.v2ex.com/t/788495)
 1. [求推荐好用的笔记软件](https://www.v2ex.com/t/788435)
-1. [请教下关于自己在家组服务器，公网访问的问题](https://www.v2ex.com/t/788357)
-1. [iOS 上有什么比较优秀的倒数日软件吗？](https://www.v2ex.com/t/788358)
 1. [IntelliJ IDEA 是最好的 Java 编程工具没有之一？](https://www.v2ex.com/t/788523)
+1. [[技术分享] 💌 分享一下申请 JetBrains 全家桶 OpenSource License 的经历。](https://www.v2ex.com/t/788434)
+1. [Windows 11 Build 22000.65 发布了](https://www.v2ex.com/t/788455)
 
 ## 历史归档
 
