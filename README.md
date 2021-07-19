@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2021-07-19 07:05:17 +0800`
+ `更新时间：2021-07-19 08:15:52 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [后悔三十几刀时没购入 infuse！](https://www.v2ex.com/t/790220)
 1. [苹果审核 ipv6 的问题](https://www.v2ex.com/t/790224)
 1. [为什么泛型使用了 extends 就不能存东西了？](https://www.v2ex.com/t/790199)
-1. [大量的 try 应该怎么复用](https://www.v2ex.com/t/790153)
-1. [微信最新的多设备登录依然无法支持 ios 和安卓手机同时登录啊，双机党很痛苦](https://www.v2ex.com/t/790170)
+1. [大家在开发环境配置上一般会花多长时间？](https://www.v2ex.com/t/790257)
+1. [刚买 4 个月的 MacBook，电池健康度到了 97%属于正常吗？](https://www.v2ex.com/t/790264)
 
 ## 历史归档
 
