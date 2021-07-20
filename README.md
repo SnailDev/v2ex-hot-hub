@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2021-07-20 15:03:18 +0800`
+ `更新时间：2021-07-20 16:06:17 +0800`
 
 ## 热议话题
 
@@ -21,7 +21,7 @@
 1. [上海换驾照，色弱不通过。](https://www.v2ex.com/t/790428)
 1. [iPhone12 电池损耗只剩 94%](https://www.v2ex.com/t/790447)
 1. [你们用的播放器是 IINA 还 movist？](https://www.v2ex.com/t/790444)
-1. [Linux 环境下火狐浏览器在浏览谷歌搜索结果和切换标签页过程中严重卡顿](https://www.v2ex.com/t/790400)
+1. [科技以换壳为主的 win11](https://www.v2ex.com/t/790440)
 
 ## 历史归档
 
