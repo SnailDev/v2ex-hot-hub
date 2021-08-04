@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2021-08-04 22:04:00 +0800`
+ `更新时间：2021-08-04 23:03:24 +0800`
 
 ## 热议话题
 
@@ -22,6 +22,7 @@
 1. [iPad pro 2021 刚到，求推荐 app](https://www.v2ex.com/t/793510)
 1. [在工信部投诉家里电信信号差之后，上门安装了 4G 基站](https://www.v2ex.com/t/793653)
 1. [MacOs11.5 BUG 较多, 建议别升级.](https://www.v2ex.com/t/793521)
+1. [关于作业辅导](https://www.v2ex.com/t/793515)
 
 ## 历史归档
 
