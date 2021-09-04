@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2021-09-04 10:19:52 +0800`
+ `更新时间：2021-09-04 11:04:36 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,7 @@
 1. [微信就不能设置缓存大小吗](https://www.v2ex.com/t/799645)
 1. [求推荐 Manjaro 兼容性比较好的轻薄本](https://www.v2ex.com/t/799622)
 1. [apple 系统不能降级，太气了](https://www.v2ex.com/t/799764)
-1. [MBP M1 求大神推荐一个 4K 的显示器型号](https://www.v2ex.com/t/799674)
+1. [csdn 又搞了个 codechina 的 Git 代码托管平台?](https://www.v2ex.com/t/799681)
 
 ## 历史归档
 
