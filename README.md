@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2021-09-12 12:05:58 +0800`
+ `更新时间：2021-09-12 13:03:22 +0800`
 
 ## 热议话题
 
@@ -19,9 +19,9 @@
 1. [go web 和 Java spring 比优势在哪里？](https://www.v2ex.com/t/801212)
 1. [低效能程序员的行为与思维，共勉](https://www.v2ex.com/t/801228)
 1. [还有三天就 JDK17 了，大家还在用 8 吗](https://www.v2ex.com/t/801237)
-1. [迫于 92 的姥姥想学微信，求推荐合适的设备](https://www.v2ex.com/t/801206)
 1. [你们的手机贴摄像头吗](https://www.v2ex.com/t/801222)
 1. [[上海][租房求比较]](https://www.v2ex.com/t/801211)
+1. [不要再拿 Golang 与 Java 作比较](https://www.v2ex.com/t/801337)
 
 ## 历史归档
 
