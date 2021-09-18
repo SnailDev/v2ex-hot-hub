@@ -11,15 +11,15 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2021-09-18 17:03:19 +0800`
+ `更新时间：2021-09-18 18:06:16 +0800`
 
 ## 热议话题
 
 1. [国内手机厂商最大的软肋就是 android 系统！](https://www.v2ex.com/t/802674)
 1. [大家的官网订单现在什么状态](https://www.v2ex.com/t/802632)
 1. [大家预售都抢到了吗？](https://www.v2ex.com/t/802615)
-1. [库克不愧是供应链管理大师， A15 一鱼三吃](https://www.v2ex.com/t/802673)
 1. [找到了 iOS 被怀疑淘宝窃听的可能原因](https://www.v2ex.com/t/802660)
+1. [库克不愧是供应链管理大师， A15 一鱼三吃](https://www.v2ex.com/t/802673)
 1. [十一出游西安，西安的大佬们能给些建议吗？](https://www.v2ex.com/t/802696)
 1. [rebase 还是 merge？](https://www.v2ex.com/t/802718)
 1. [领克 01，燃油还是 phev？](https://www.v2ex.com/t/802727)
