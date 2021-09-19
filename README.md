@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2021-09-19 20:07:00 +0800`
+ `更新时间：2021-09-19 21:11:02 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [一直都想买一台 mac，但是一直没有下决心付款](https://www.v2ex.com/t/802858)
 1. [彦祖们，头戴式降噪耳机（如索尼 WH-1000XM3 等），里面再塞 3M 耳塞，能屏蔽工地比较尖的声音吗？](https://www.v2ex.com/t/802922)
 1. [日经小白问题： IPv6 下直接暴露在公网上，是不是安全方面有隐患？](https://www.v2ex.com/t/802867)
-1. [想要买个笔记本 Thinkpad X1 Carbon 怎样，懂的来说说](https://www.v2ex.com/t/802887)
 1. [微信朋友圈的 sao 操作](https://www.v2ex.com/t/802885)
+1. [想要买个笔记本 Thinkpad X1 Carbon 怎样，懂的来说说](https://www.v2ex.com/t/802887)
 1. [QQ 音乐会员官方活动，免费领一个月会员](https://www.v2ex.com/t/802913)
 
 ## 历史归档
