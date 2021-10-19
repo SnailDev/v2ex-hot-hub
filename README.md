@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2021-10-19 07:05:13 +0800`
+ `更新时间：2021-10-19 08:19:50 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [我的秋天马上到了， apple watch 需要贴膜吗？](https://www.v2ex.com/t/808435)
 1. [警告大学挂科的学生，以我自己为例子](https://www.v2ex.com/t/808601)
 1. [为什么不 ban 猛犸？](https://www.v2ex.com/t/808441)
-1. [Mac 桌面相册小组件[送码]](https://www.v2ex.com/t/808492)
 1. [[小米电视] 小爱同学未授权情况下全天侯监听录音！](https://www.v2ex.com/t/808548)
+1. [Mac 桌面相册小组件[送码]](https://www.v2ex.com/t/808492)
 1. [请教下单人 solo 开发 app 时的 Java 后端技术选择？](https://www.v2ex.com/t/808490)
 
 ## 历史归档
