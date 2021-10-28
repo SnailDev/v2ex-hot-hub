@@ -11,11 +11,10 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2021-10-28 18:05:27 +0800`
+ `更新时间：2021-10-28 19:03:21 +0800`
 
 ## 热议话题
 
-1. [HomeKit 官方认证、智能 LED、支持天猫精灵、小爱、小度、Amazon、原价 99，现五折](https://www.v2ex.com/t/811039)
 1. [分享一个自己写了 3 年的 App： X-Reader 多功能阅读器，《免费送码》。](https://www.v2ex.com/t/811102)
 1. [收到学校要求下架学生服务相关的小程序](https://www.v2ex.com/t/811121)
 1. [前端应该算是目前程序员里最简单且收入不低以及压力比较小的工作了](https://www.v2ex.com/t/811122)
@@ -25,6 +24,7 @@
 1. [薄了 0.1mm 的视觉效果是真的震撼](https://www.v2ex.com/t/811201)
 1. [Windows10 的多桌面有什么使用场合？](https://www.v2ex.com/t/811060)
 1. [MAS 里的网易云音乐仍是 Intel 版本，并未适配 M1](https://www.v2ex.com/t/811105)
+1. [听闻微信开发者文档很差](https://www.v2ex.com/t/811162)
 
 ## 历史归档
 
