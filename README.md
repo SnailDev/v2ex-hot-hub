@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2021-11-02 18:04:53 +0800`
+ `更新时间：2021-11-02 19:03:37 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [无废话 Docker 快速上手教程](https://www.v2ex.com/t/812315)
 1. [终于找到了 macos 切换程序的最佳方式](https://www.v2ex.com/t/812330)
 1. [Parallels Desktop 17 双十一 7 折抢先购！](https://www.v2ex.com/t/812284)
-1. [2021 年末，如何证明自己当前不是生活在元宇宙当中？](https://www.v2ex.com/t/812310)
 1. [“国家邮政局”替我重拳出恶气](https://www.v2ex.com/t/812414)
+1. [2021 年末，如何证明自己当前不是生活在元宇宙当中？](https://www.v2ex.com/t/812310)
 
 ## 历史归档
 
