@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2021-11-07 22:03:41 +0800`
+ `更新时间：2021-11-07 23:04:02 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [作为一名 Dotaer 很羡慕隔壁 LOL](https://www.v2ex.com/t/813581)
 1. [发现中文互联网上的好多页面都没有对 1080P 以上的分辨率优化](https://www.v2ex.com/t/813575)
 1. [M1 Max 的 25 款 AAA 游戏性能测试视频](https://www.v2ex.com/t/813632)
+1. [误操作 Apple Play 导致银行卡被锁定😭](https://www.v2ex.com/t/813701)
 1. [没想到遇到李鬼这种事情真的会发生在自己身上](https://www.v2ex.com/t/813655)
-1. [2022 的 iPad Pro 会是什么设计？](https://www.v2ex.com/t/813622)
 
 ## 历史归档
 
