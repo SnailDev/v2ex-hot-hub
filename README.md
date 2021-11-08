@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2021-11-08 09:47:26 +0800`
+ `更新时间：2021-11-08 10:20:16 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [误操作 Apple Play 导致银行卡被锁定😭](https://www.v2ex.com/t/813701)
 1. [电池健康最大容量在今天终于变了](https://www.v2ex.com/t/813741)
 1. [16 寸 M1 Max 体验确实很好](https://www.v2ex.com/t/813625)
-1. [M1 Max 的 25 款 AAA 游戏性能测试视频](https://www.v2ex.com/t/813632)
 1. [关于站立办公我的一些探索](https://www.v2ex.com/t/813660)
+1. [M1 Max 的 25 款 AAA 游戏性能测试视频](https://www.v2ex.com/t/813632)
 
 ## 历史归档
 
