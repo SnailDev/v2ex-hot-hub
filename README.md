@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2021-11-09 13:04:09 +0800`
+ `更新时间：2021-11-09 14:06:32 +0800`
 
 ## 热议话题
 
 1. [miui 现在 bug 这么多,有什么深层原因吗?](https://www.v2ex.com/t/814032)
 1. [windows 11 难以忍受之处汇总](https://www.v2ex.com/t/813979)
 1. [GZ 南方医院看病有感](https://www.v2ex.com/t/813991)
-1. [章鱼如果能等到基因突变的机会，会成为海上霸主吗？](https://www.v2ex.com/t/814012)
 1. [提前还房贷请教](https://www.v2ex.com/t/814034)
+1. [章鱼如果能等到基因突变的机会，会成为海上霸主吗？](https://www.v2ex.com/t/814012)
+1. [.NET 6 正式版了](https://www.v2ex.com/t/814028)
 1. [大家一般买苹果数据线都在哪里买，推荐下](https://www.v2ex.com/t/813892)
 1. [iPhone13Pro 买来三个周，电池健康度 99%了](https://www.v2ex.com/t/813894)
-1. [把 Apple Watch 当作运动助手的老哥, 帮我看看](https://www.v2ex.com/t/813838)
-1. [.NET 6 正式版了](https://www.v2ex.com/t/814028)
+1. [macbook 16 intel 版本真的那么拉吗](https://www.v2ex.com/t/813888)
 
 ## 历史归档
 
