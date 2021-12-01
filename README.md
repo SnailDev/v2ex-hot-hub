@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2021-12-01 19:03:49 +0800`
+ `更新时间：2021-12-01 20:08:59 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [求问在家办公怎么缓解『抑郁』的情绪](https://www.v2ex.com/t/819336)
 1. [老哥们，我老大在循环里写 Thread.sleep，到处都这么写，有问题吗](https://www.v2ex.com/t/819192)
 1. [最近和家长的关系处的越来越糟了，该怎么调节自己的心情？](https://www.v2ex.com/t/819146)
-1. [Infuse Pro 终身又涨价了？](https://www.v2ex.com/t/819279)
+1. [！ LCD 永不为奴！](https://www.v2ex.com/t/819312)
 
 ## 历史归档
 
