@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2021-12-08 15:06:06 +0800`
+ `更新时间：2021-12-08 16:07:13 +0800`
 
 ## 热议话题
 
@@ -20,11 +20,11 @@
 1. [接了个盘，这张表什么水平](https://www.v2ex.com/t/820687)
 1. [大家怎么看待北京的共有产权房？能不能买？](https://www.v2ex.com/t/820678)
 1. [看隔壁 90 后有感](https://www.v2ex.com/t/820799)
-1. [80 后程序员前辈们现在都在干嘛](https://www.v2ex.com/t/820739)
 1. [海外定居要如何处理父母养老问题？](https://www.v2ex.com/t/820773)
-1. [git CLI 设计太烂](https://www.v2ex.com/t/820770)
+1. [80 后程序员前辈们现在都在干嘛](https://www.v2ex.com/t/820739)
 1. [苹果又出邪术让手机变慢变卡？](https://www.v2ex.com/t/820787)
-1. [罗技外设这品控感觉真的差](https://www.v2ex.com/t/820636)
+1. [git CLI 设计太烂](https://www.v2ex.com/t/820770)
+1. [使用 git，既要用「命令行」也要用「UI」](https://www.v2ex.com/t/820776)
 
 ## 历史归档
 
