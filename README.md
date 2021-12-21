@@ -11,14 +11,14 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2021-12-21 18:05:59 +0800`
+ `更新时间：2021-12-21 19:04:22 +0800`
 
 ## 热议话题
 
 1. [想问问各位，你们通勤时间和路费是多少呢？](https://www.v2ex.com/t/823452)
 1. [家庭第二辆车，太太开，她看上 Model3 了，但我看 B 站、B 乎、水木、V 站评论两极分化，这是为啥？](https://www.v2ex.com/t/823449)
-1. [12306app 已经上 arm64 几大银行的 app 仍在坚守 armeabi](https://www.v2ex.com/t/823445)
 1. [马上 2022 了, 都在用哪些知识管理软件](https://www.v2ex.com/t/823484)
+1. [12306app 已经上 arm64 几大银行的 app 仍在坚守 armeabi](https://www.v2ex.com/t/823445)
 1. [关于给父母生活费](https://www.v2ex.com/t/823465)
 1. [你们的 MacBook 要关机吗？](https://www.v2ex.com/t/823406)
 1. [离谱啊离谱](https://www.v2ex.com/t/823563)
