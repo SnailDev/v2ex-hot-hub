@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2021-12-24 18:06:25 +0800`
+ `更新时间：2021-12-24 19:03:57 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [小米 10 安装 youtube advanced，提示不给安装，给我气坏了](https://www.v2ex.com/t/824148)
 1. [手机微信占用 7.7G，具体是什么文件会这么大？](https://www.v2ex.com/t/824174)
 1. [看到这个。。。QQ jietu plugin](https://www.v2ex.com/t/824156)
-1. [Steam 冬促开始了，大家准备买些什么呢？](https://www.v2ex.com/t/824197)
+1. [提交时间给后端用时间戳好还是字符串好](https://www.v2ex.com/t/824255)
 
 ## 历史归档
 
