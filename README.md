@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2021-12-30 20:09:27 +0800`
+ `更新时间：2021-12-30 21:15:10 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,9 @@
 1. [有懂的大佬说一下拼多多上买电子产品靠谱吗？](https://www.v2ex.com/t/825281)
 1. [邻居比较吵，真的只能报警吗？](https://www.v2ex.com/t/825230)
 1. [迫于刚换 iPhone 问下主用哪区 Id 较好？](https://www.v2ex.com/t/825215)
-1. [大家是如何解决外出时 USB C 口和 A 口的问题的？](https://www.v2ex.com/t/825150)
 1. [老铁们，人防车位能买吗？](https://www.v2ex.com/t/825172)
 1. [微信读书的个人年终总结出来，今年你看了几本书？看了哪些书？如果让你推荐一本书给大家，你会推荐哪本？](https://www.v2ex.com/t/825209)
+1. [Windows subsystem for Linux (WSL)的用户有踩过什么坑吗](https://www.v2ex.com/t/825188)
 
 ## 历史归档
 
