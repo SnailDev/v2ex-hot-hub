@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2022-02-24 00:07:57 +0800`
+ `更新时间：2022-02-24 01:09:33 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [看到令人难受的新闻，想给同是程序员的自己买个保险。求助各位 V2er 有没有好的推荐](https://www.v2ex.com/t/835829)
 1. [在中国大陆，对于大众来说，手机端浏览器的使用频率到底有多高？](https://www.v2ex.com/t/835815)
 1. [[阿里爬虫] 如何应对反爬？](https://www.v2ex.com/t/835907)
-1. [终于说动公司切 Git 了，现调研阶段，求 GitLab + Jenkins 类似的技术方案推荐。](https://www.v2ex.com/t/835915)
 1. [不让用 windows，除了 macos，免费的 Linux 桌面操作系统哪个好用？](https://www.v2ex.com/t/835960)
+1. [终于说动公司切 Git 了，现调研阶段，求 GitLab + Jenkins 类似的技术方案推荐。](https://www.v2ex.com/t/835915)
 
 ## 历史归档
 
