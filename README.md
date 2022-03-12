@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2022-03-13 00:07:37 +0800`
+ `更新时间：2022-03-13 01:06:50 +0800`
 
 ## 热议话题
 
@@ -22,9 +22,8 @@
 1. [请教 m1 pro 芯片 14 寸 MBP 用户真实体验](https://www.v2ex.com/t/839813)
 1. [哪本小说，你读完久久不能释怀？](https://www.v2ex.com/t/839866)
 1. [吐槽一下最近看到的一些简历上面的问题](https://www.v2ex.com/t/839867)
-1. [PHP 原来是这么神奇的语言吗？](https://www.v2ex.com/t/839895)
 1. [支付宝上线“支付宝号”](https://www.v2ex.com/t/839885)
-1. [租房改造建议](https://www.v2ex.com/t/839810)
+1. [PHP 原来是这么神奇的语言吗？](https://www.v2ex.com/t/839895)
 
 ## 历史归档
 
