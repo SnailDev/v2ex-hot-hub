@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2022-03-18 12:07:53 +0800`
+ `更新时间：2022-03-18 13:06:20 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,8 @@
 1. [神机 Redmi AX6 重新上架小米有品](https://www.v2ex.com/t/841070)
 1. [做了一个中国法律手册的 app](https://www.v2ex.com/t/841041)
 1. [对于天气 App，我们能期待什么?](https://www.v2ex.com/t/841058)
-1. [坐骑（ji）还是 坐骑（qi）](https://www.v2ex.com/t/841179)
 1. [各位兄弟，早餐都吃的啥？](https://www.v2ex.com/t/841202)
+1. [坐骑（ji）还是 坐骑（qi）](https://www.v2ex.com/t/841179)
 1. [安卓如何关闭视频彩铃功能，连拨打电话都有广告太烦了](https://www.v2ex.com/t/841003)
 
 ## 历史归档
