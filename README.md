@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2022-03-22 00:08:44 +0800`
+ `更新时间：2022-03-22 01:10:26 +0800`
 
 ## 热议话题
 
@@ -19,11 +19,9 @@
 1. [iOS 上最好用的电子书阅读器竟然是微信读书](https://www.v2ex.com/t/841781)
 1. [大三了只会增删改查](https://www.v2ex.com/t/841796)
 1. [这种情况你们会辞职吗？](https://www.v2ex.com/t/841813)
-1. [2022 年关于美区 ID 和支付](https://www.v2ex.com/t/841726)
 1. [[送码] Gotcha HTTP Client， MacOS 上优雅简洁的 HTTP 接口测试工具，赠送永久兑换码。](https://www.v2ex.com/t/841834)
 1. [apipost 炸了，为什么也没有个公告啥的](https://www.v2ex.com/t/841775)
 1. [升降桌椅 的确可以改善健康状况 分享一下我的 workspace](https://www.v2ex.com/t/841821)
-1. [2022 已不易，又闻东航事件。。。](https://www.v2ex.com/t/841929)
 
 ## 历史归档
 
