@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2022-03-31 15:06:50 +0800`
+ `更新时间：2022-03-31 16:08:58 +0800`
 
 ## 热议话题
 
@@ -19,9 +19,9 @@
 1. [Java 项目该不该用 stream 流来编写代码？考虑 code viewer](https://www.v2ex.com/t/843929)
 1. [广东电信开始开放 2000M 光纤了，有什么路由器推荐吗](https://www.v2ex.com/t/843991)
 1. [各位大佬，对于买车，求分享经验](https://www.v2ex.com/t/844041)
+1. [有人想来日本干 IT 开发吗](https://www.v2ex.com/t/843972)
 1. [别总是想着 localhost 了，给大家个域名，让大家测试的时候更加有活力](https://www.v2ex.com/t/844029)
 1. [吐槽一下妙控板在两台电脑间切换问题](https://www.v2ex.com/t/843951)
-1. [有人想来日本干 IT 开发吗](https://www.v2ex.com/t/843972)
 
 ## 历史归档
 
