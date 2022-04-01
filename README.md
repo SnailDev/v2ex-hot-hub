@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2022-04-01 11:37:06 +0800`
+ `更新时间：2022-04-01 12:11:40 +0800`
 
 ## 热议话题
 
@@ -19,11 +19,12 @@
 1. [有没有实际开发编程能力很强，但是不擅长面试的同学？](https://www.v2ex.com/t/844102)
 1. [哪里能查到大陆地区销售的支持无线 Carplay 的汽车车型列表？](https://www.v2ex.com/t/844077)
 1. [MMO 万人同屏实验成功发布！](https://www.v2ex.com/t/844129)
-1. [Java 语言代码实现一个最优写法。](https://www.v2ex.com/t/844140)
+1. [三十多岁了，你们有什么爱好吗](https://www.v2ex.com/t/844250)
 1. [亲戚孩子上大学，计算机 or 游戏开发？](https://www.v2ex.com/t/844076)
+1. [Java 语言代码实现一个最优写法。](https://www.v2ex.com/t/844140)
+1. [家里马上要装修了，什么也不懂](https://www.v2ex.com/t/844240)
 1. [电波授时小程序](https://www.v2ex.com/t/844122)
 1. [拼夕夕的便宜话费没有了](https://www.v2ex.com/t/844208)
-1. [家里马上要装修了，什么也不懂](https://www.v2ex.com/t/844240)
 
 ## 历史归档
 
