@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2022-04-05 13:06:24 +0800`
+ `更新时间：2022-04-05 14:09:06 +0800`
 
 ## 热议话题
 
@@ -19,10 +19,11 @@
 1. [目前上海电信没开国际精品网出国丢包率真恐怖](https://www.v2ex.com/t/844883)
 1. [mac 小白，请教下买 mbp 有必要一起买 AC 么？](https://www.v2ex.com/t/844884)
 1. [ubuntu 下有什么好看的终端吗？](https://www.v2ex.com/t/844876)
+1. [请求数百万个 URL， C#还是 Python 快且容易实现？](https://www.v2ex.com/t/844961)
 1. [没想好是 Mac Studio 还是 MacBook Pro 16](https://www.v2ex.com/t/844967)
 1. [怎么才能算是有效的“睡了一次午觉”？](https://www.v2ex.com/t/844881)
 1. [显示器竖着用当主屏， 27 寸还是 32 寸，请长期使用过得的朋友推荐一下](https://www.v2ex.com/t/844885)
-1. [请求数百万个 URL， C#还是 Python 快且容易实现？](https://www.v2ex.com/t/844961)
+1. [决赛圈了！ MacOS 最好用的剪贴板 app！](https://www.v2ex.com/t/844966)
 
 ## 历史归档
 
