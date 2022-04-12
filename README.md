@@ -11,13 +11,13 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2022-04-12 21:20:19 +0800`
+ `更新时间：2022-04-12 22:06:45 +0800`
 
 ## 热议话题
 
 1. [有孩子以后就是一切原罪的开始](https://www.v2ex.com/t/846513)
-1. [你问过自己，想做什么吗？](https://www.v2ex.com/t/846485)
 1. [大家的房贷提前还款么？](https://www.v2ex.com/t/846472)
+1. [你问过自己，想做什么吗？](https://www.v2ex.com/t/846485)
 1. [没有房贷压力之后，人真的轻松很多](https://www.v2ex.com/t/846454)
 1. [speedtest 优秀，油管无法流畅 4k，求指导](https://www.v2ex.com/t/846419)
 1. [求推荐家用私有云，主要是相册备份](https://www.v2ex.com/t/846374)
