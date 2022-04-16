@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2022-04-16 07:07:24 +0800`
+ `更新时间：2022-04-16 08:32:03 +0800`
 
 ## 热议话题
 
@@ -21,6 +21,7 @@
 1. [有没有阳台种菜的朋友](https://www.v2ex.com/t/847118)
 1. [大家看了今天的 Github Trending 了吗？](https://www.v2ex.com/t/847113)
 1. [研发工程师，工作站电脑配置清单请教](https://www.v2ex.com/t/847098)
+1. [支持 2.5G LAN 的光猫什么时候能普及啊](https://www.v2ex.com/t/847063)
 
 ## 历史归档
 
