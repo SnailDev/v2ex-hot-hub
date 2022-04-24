@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2022-04-24 14:09:28 +0800`
+ `更新时间：2022-04-24 15:06:40 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [想找个女朋友，不知道怎么开始](https://www.v2ex.com/t/848795)
 1. [十分无比极度纠结 iPad pro 到底买 11 寸还是 12.9 寸的。。。](https://www.v2ex.com/t/848758)
 1. [为什么国内前端都只写 chrome only 的 网站?](https://www.v2ex.com/t/848878)
-1. [10 美元永久保留 GV](https://www.v2ex.com/t/848817)
 1. [戴眼镜的诸位，你们如何清洁镜片？](https://www.v2ex.com/t/848909)
+1. [10 美元永久保留 GV](https://www.v2ex.com/t/848817)
 1. [网上找了很多 windows 程序启动器，都不太好用，便学了下 pyqt 写了个 windows 程序启动器，欢迎 star](https://www.v2ex.com/t/848761)
 1. [git reset --hard 求救哈](https://www.v2ex.com/t/848777)
 
