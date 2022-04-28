@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2022-04-28 20:12:48 +0800`
+ `更新时间：2022-04-28 21:29:12 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [奶茶的危害大还是烟的危害大](https://www.v2ex.com/t/849733)
 1. [大家工作用 2 个显示器的多吗？](https://www.v2ex.com/t/849720)
 1. [国内有哪些公司可以登 google, 刷 youtube 的？](https://www.v2ex.com/t/849763)
-1. [Linux 服务器转发流量用什么？](https://www.v2ex.com/t/849671)
 1. [用了多年 Windows,发现还是喜欢 Windows](https://www.v2ex.com/t/849830)
+1. [Linux 服务器转发流量用什么？](https://www.v2ex.com/t/849671)
 1. [为什么中国还有那么多 iPad App 不支持横屏模式？](https://www.v2ex.com/t/849695)
 
 ## 历史归档
