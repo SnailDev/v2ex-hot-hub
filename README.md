@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2022-06-12 15:06:33 +0800`
+ `更新时间：2022-06-12 16:08:10 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,9 @@
 1. [有没有可能直接将网络盘挂载为本地磁盘？](https://www.v2ex.com/t/858981)
 1. [资深 .NET 想转 Java 有啥基于 Spring Boot 的项目推荐？](https://www.v2ex.com/t/858972)
 1. [有多少人在用 Apple Fitness+ 锻炼？](https://www.v2ex.com/t/859026)
+1. [苹果的刀法越来越精准了，大家的选择焦虑症是增加了还是降低了？](https://www.v2ex.com/t/859055)
+1. [M1 Macbook air（16+256)要不要换丐版 macbook pro 14](https://www.v2ex.com/t/859030)
 1. [国外大厂有月付 10 美元以内，容量和流量都有 3TB 的存储服务吗？](https://www.v2ex.com/t/858938)
-1. [服务器被爆破了](https://www.v2ex.com/t/859022)
 
 ## 历史归档
 
