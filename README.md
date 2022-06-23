@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2022-06-23 21:32:13 +0800`
+ `更新时间：2022-06-23 22:06:06 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [看了个新闻：“苹果确认 iPad 不再支持用作 Home Hub”](https://www.v2ex.com/t/861570)
 1. [五年前的今天买的 iPhone7，有必要今天换 iPhone SE 3 吗](https://www.v2ex.com/t/861497)
 1. [如何优雅地把系统装进 U 盘](https://www.v2ex.com/t/861536)
-1. [请教一下，现在哪家服务商域名备案不需要扫脸？](https://www.v2ex.com/t/861485)
+1. [为什么 GitHub Copilot 收费，却不给训练用的代码作者费用？](https://www.v2ex.com/t/861734)
 
 ## 历史归档
 
