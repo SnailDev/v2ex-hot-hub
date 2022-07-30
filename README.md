@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2022-07-30 14:08:22 +0800`
+ `更新时间：2022-07-30 15:06:32 +0800`
 
 ## 热议话题
 
@@ -19,9 +19,10 @@
 1. [在外面怎么访问家里的服务器？](https://www.v2ex.com/t/869500)
 1. [小程序埋点上报的数据，往 mysql 存是可以的吗](https://www.v2ex.com/t/869507)
 1. [成年人的尴尬来的太突然](https://www.v2ex.com/t/869559)
-1. [为了老婆的乐队梦, 我做了一个弹钢琴的机器人](https://www.v2ex.com/t/869471)
 1. [原来 115 现在连正常的电影都拦截啊...](https://www.v2ex.com/t/869551)
 1. [在家挂着一个 iPhone 作为副卡收短信怎么充电比较好？](https://www.v2ex.com/t/869550)
+1. [三星 SSD T7 shield 2T 接 M1 测试速度感人 问题](https://www.v2ex.com/t/869518)
+1. [吐嘈一下苹果键盘](https://www.v2ex.com/t/869511)
 
 ## 历史归档
 
