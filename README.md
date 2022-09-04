@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2022-09-04 21:22:50 +0800`
+ `更新时间：2022-09-04 22:06:14 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,9 @@
 1. [uu 们都在用啥笔记软件？](https://www.v2ex.com/t/877596)
 1. [看这样子。中秋也不能出京了](https://www.v2ex.com/t/877580)
 1. [请求推荐手机（不装国内软件）](https://www.v2ex.com/t/877597)
-1. [游戏里的“AI”是不是都是一堆 if+random 的假 AI？](https://www.v2ex.com/t/877616)
 1. [既然信号不好，那就干脆不插 SIM 卡了！](https://www.v2ex.com/t/877634)
+1. [游戏里的“AI”是不是都是一堆 if+random 的假 AI？](https://www.v2ex.com/t/877616)
+1. [请问『公积金取出只是去存定期的话，不如不取』的说法有道理吗？为什么？](https://www.v2ex.com/t/877559)
 1. [大姨妈 App 做好了，起名「来了么」](https://www.v2ex.com/t/877610)
 
 ## 历史归档
