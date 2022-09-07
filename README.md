@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2022-09-07 07:07:36 +0800`
+ `更新时间：2022-09-07 08:44:00 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,8 @@
 1. [办公室的饮水机，没人换水...](https://www.v2ex.com/t/877999)
 1. [大家目前在用 Windows 的哪个版本？](https://www.v2ex.com/t/877983)
 1. [iPhone 官方手机壳](https://www.v2ex.com/t/878028)
-1. [来讨论下游戏机](https://www.v2ex.com/t/877964)
-1. [需不需要给小孩报各种兴趣班？](https://www.v2ex.com/t/877966)
+1. [Google 中文检索实在太烂，导致我被假冒的期刊网站骗取了稿件](https://www.v2ex.com/t/878002)
+1. [我想折腾个 nas 玩玩，查了些资料有几个问题想请教一下 v 友](https://www.v2ex.com/t/878078)
 
 ## 历史归档
 
