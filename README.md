@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2022-09-09 16:12:32 +0800`
+ `更新时间：2022-09-09 17:10:18 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [Dynamic Island 灵动岛💊 软件放大硬件缺陷的典范之作](https://www.v2ex.com/t/878717)
 1. [最近每天都能收到招嫖短信……](https://www.v2ex.com/t/878831)
 1. [苹果官网确认国行 iPhone 14 硬件阉割卫星紧急 SOS](https://www.v2ex.com/t/878774)
-1. [海外回国冲浪 求方案](https://www.v2ex.com/t/878701)
 1. [v 友帮我看看 这种情况要不要出去](https://www.v2ex.com/t/878826)
+1. [海外回国冲浪 求方案](https://www.v2ex.com/t/878701)
 1. [看 Apple 板块，都在讨论 iPhone ，没有人买 Watch 吗？](https://www.v2ex.com/t/878845)
 
 ## 历史归档
