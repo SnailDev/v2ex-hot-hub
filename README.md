@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2022-09-19 16:16:01 +0800`
+ `更新时间：2022-09-19 17:13:34 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,7 @@
 1. [新手司机怎么练车感](https://www.v2ex.com/t/881185)
 1. [关于噪音，楼下半夜 12 来敲过几次门了，该怎么处理](https://www.v2ex.com/t/881095)
 1. [ios 除了小火箭还有其他好用的吗](https://www.v2ex.com/t/881159)
-1. [支付宝检测到 magisk 或者 root 后的机制是什么](https://www.v2ex.com/t/881082)
+1. [IPhone14pro 的灵动岛，不会用一年就弃了吧？](https://www.v2ex.com/t/881194)
 
 ## 历史归档
 
