@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2022-10-21 15:20:46 +0800`
+ `更新时间：2022-10-21 16:12:22 +0800`
 
 ## 热议话题
 
@@ -20,6 +20,7 @@
 1. [危机感越来越低，得过且过，这种情况怎么才能打破呢？](https://www.v2ex.com/t/888614)
 1. [YouTube Premium 涨价](https://www.v2ex.com/t/888587)
 1. [你们买了 Apple Watch 后悔了吗？](https://www.v2ex.com/t/888465)
+1. [各位平均每个月的固定开销多少？我是 1.4 万](https://www.v2ex.com/t/888731)
 1. [越来越觉得自己是个可笑的笑话](https://www.v2ex.com/t/888565)
 1. [吐槽下， IOS 真应该规范下接口， app 的启动广告，跳过广告按钮，应该统一在下方，且按钮加大](https://www.v2ex.com/t/888500)
 1. [新显卡新 CPU 聊得火热，想问下大家装机后会装正版 Windows 系统吗](https://www.v2ex.com/t/888682)
