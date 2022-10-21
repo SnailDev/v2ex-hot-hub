@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2022-10-21 13:43:20 +0800`
+ `更新时间：2022-10-21 14:23:24 +0800`
 
 ## 热议话题
 
@@ -20,9 +20,10 @@
 1. [人死后是不是并不存在灵魂？](https://www.v2ex.com/t/888570)
 1. [YouTube Premium 涨价](https://www.v2ex.com/t/888587)
 1. [面试紧张怎么缓解](https://www.v2ex.com/t/888424)
+1. [来澳洲八年了，有什么想问的可以来聊聊](https://www.v2ex.com/t/888670)
 1. [你们买了 Apple Watch 后悔了吗？](https://www.v2ex.com/t/888465)
-1. [求问，现在买 Xbox Series X 什么版本和渠道会最好？](https://www.v2ex.com/t/888409)
 1. [越来越觉得自己是个可笑的笑话](https://www.v2ex.com/t/888565)
+1. [兄弟们，单独相亲到底该怎么聊，聊什么可以提高成功的概率？](https://www.v2ex.com/t/888419)
 
 ## 历史归档
 
