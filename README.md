@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2023-01-25 11:07:02 +0800`
+ `更新时间：2023-01-25 12:07:44 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [大年初一丢了 1000，这是吉兆还是凶兆？](https://www.v2ex.com/t/910487)
 1. [Airpods Pro 2 真的把 Bose QC35 Ⅱ秒了](https://www.v2ex.com/t/910502)
 1. [兄弟们，我完了，人设彻底崩溃了，怎么办呀](https://www.v2ex.com/t/910527)
-1. [老婆一年多没上班了。](https://www.v2ex.com/t/910475)
+1. [这个年过的，真不舒服](https://www.v2ex.com/t/910529)
 
 ## 历史归档
 
