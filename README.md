@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2023-02-12 03:03:54 +0800`
+ `更新时间：2023-02-12 04:06:35 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [请问在家怎么让两台电脑通过 NAS 快速同步代码](https://www.v2ex.com/t/915142)
 1. [大佬们，推荐下 NAS 系统呗](https://www.v2ex.com/t/915115)
 1. [推荐一个当下性价比高的电视盒子](https://www.v2ex.com/t/915108)
-1. [pdd 百亿补贴的券是个什么原理？](https://www.v2ex.com/t/915082)
+1. [iptables 太他妈难用了](https://www.v2ex.com/t/915216)
 
 ## 历史归档
 
