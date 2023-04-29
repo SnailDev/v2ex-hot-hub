@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2023-04-29 07:04:18 +0800`
+ `更新时间：2023-04-29 08:31:53 +0800`
 
 ## 热议话题
 
@@ -23,6 +23,7 @@
 1. [局域网内传输文件最快的方案或软件是什么?](https://www.v2ex.com/t/936118)
 1. [卷起来了，看 V2EX Polish 又推广，俺也再次推荐一下我的油猴脚本： V2EX - 超级增强](https://www.v2ex.com/t/936203)
 1. [我的 UI 组件库发布了！](https://www.v2ex.com/t/936264)
+1. [做 Java 程序员而不是 spring 程序员](https://www.v2ex.com/t/936181)
 
 ## 历史归档
 
