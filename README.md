@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2023-07-06 07:07:13 +0800`
+ `更新时间：2023-07-06 08:43:06 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [手里有 80 多台 DELL R730XD 2U 服务器，不知道干些？](https://www.v2ex.com/t/954170)
 1. [家庭网络是否应该 计算/存储分离？](https://www.v2ex.com/t/954168)
 1. [前端开发工具 vscode 对比 webstrom 哪个用的人多?](https://www.v2ex.com/t/954188)
-1. [自由职业后第一个 saas 产品发布了](https://www.v2ex.com/t/954305)
+1. [来，推荐游戏。我先来： factorio](https://www.v2ex.com/t/954388)
 
 ## 历史归档
 
