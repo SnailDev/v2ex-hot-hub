@@ -11,12 +11,11 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2023-08-10 06:05:14 +0800`
+ `更新时间：2023-08-10 07:05:51 +0800`
 
 ## 热议话题
 
 1. [半年度被打了 325 绩效,怎么办](https://www.v2ex.com/t/963630)
-1. [自如不让 40 岁合租了， 80 后你还好吗？](https://www.v2ex.com/t/963599)
 1. [小米手机无法更新 telegram 了](https://www.v2ex.com/t/963610)
 1. [关于 App 备案的猜想](https://www.v2ex.com/t/963800)
 1. [工信部史上最严限制《通知》？](https://www.v2ex.com/t/963769)
