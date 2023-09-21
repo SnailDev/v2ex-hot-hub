@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2023-09-21 12:07:38 +0800`
+ `更新时间：2023-09-21 13:06:13 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,8 @@
 1. [[送码][IOS/安卓]《随便扫》，锁屏启动扫码，扫一扫跳转到指定 App](https://www.v2ex.com/t/975667)
 1. [求推荐 Linux 发行版](https://www.v2ex.com/t/975515)
 1. [微软现在系统做的能把人气笑了](https://www.v2ex.com/t/975546)
-1. [Apple Watch 国行心电图 ECG 升级到版本 2 后喜提房颤](https://www.v2ex.com/t/975599)
-1. [国内开源，正在锁住开源](https://www.v2ex.com/t/975716)
 1. [深圳 3000 额度的银行卡？ 金融管控已经开始把手探到招行了吗？](https://www.v2ex.com/t/975758)
+1. [Apple Watch 国行心电图 ECG 升级到版本 2 后喜提房颤](https://www.v2ex.com/t/975599)
 
 ## 历史归档
 
