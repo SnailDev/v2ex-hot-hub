@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2023-09-30 22:03:29 +0800`
+ `更新时间：2023-09-30 23:04:27 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,7 @@
 1. [求 V 友帮我给父母推荐一款安卓手机。](https://www.v2ex.com/t/978266)
 1. [apple 现在对电池很鸡贼啊](https://www.v2ex.com/t/978301)
 1. [这个反人类验证是存心不给过么？到底怎么可以通过](https://www.v2ex.com/t/978251)
-1. [明年的 iPhone 16 会是 8GB 内存 和 USB C 3.0 版本么？](https://www.v2ex.com/t/978290)
+1. [Google voice 被回收， tg 都玩不了了](https://www.v2ex.com/t/978259)
 
 ## 历史归档
 
