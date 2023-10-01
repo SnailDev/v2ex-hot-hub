@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2023-10-01 15:04:29 +0800`
+ `更新时间：2023-10-01 16:07:34 +0800`
 
 ## 热议话题
 
@@ -21,6 +21,7 @@
 1. [背什么包看起来不像程序员？](https://www.v2ex.com/t/978422)
 1. [Cloudflare 宣布开始推行 Encrypted Client Hello 标准](https://www.v2ex.com/t/978306)
 1. [请教下 V 友们，关于大麦网抢票脚本开发自用 的技术栈](https://www.v2ex.com/t/978305)
+1. [山东双非计算机 acm 败犬现大三，未来应该怎么规划？](https://www.v2ex.com/t/978372)
 1. [为何还没人做中文的 hackernews，我可以贡献代码～](https://www.v2ex.com/t/978395)
 1. [写代码或读文档的时候听什么歌？](https://www.v2ex.com/t/978361)
 
