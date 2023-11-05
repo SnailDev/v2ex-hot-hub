@@ -11,15 +11,15 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2023-11-05 08:33:48 +0800`
+ `更新时间：2023-11-05 09:47:06 +0800`
 
 ## 热议话题
 
 1. [智齿长歪了，可以不拔么](https://www.v2ex.com/t/988605)
 1. [闲鱼卖手机被骗](https://www.v2ex.com/t/988544)
-1. [软路由友善 R2S 还能买吗？](https://www.v2ex.com/t/988591)
 1. [赚快钱的心态(心瘾)如何修复？](https://www.v2ex.com/t/988543)
-1. [求合租云服务器](https://www.v2ex.com/t/988530)
+1. [软路由友善 R2S 还能买吗？](https://www.v2ex.com/t/988591)
+1. [苹果摔不起， 400 壳一米就裂](https://www.v2ex.com/t/988551)
 
 ## 历史归档
 
