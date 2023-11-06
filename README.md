@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2023-11-06 08:31:45 +0800`
+ `更新时间：2023-11-06 09:44:59 +0800`
 
 ## 热议话题
 
@@ -21,8 +21,9 @@
 1. [为什么要读原著、悟原理？](https://www.v2ex.com/t/988761)
 1. [刚发布的 m3 系列定价真高呀](https://www.v2ex.com/t/988750)
 1. [如何拒绝别人？老是被问一些很小儿科的问题咋办？](https://www.v2ex.com/t/988785)
-1. [校招接了小米 offer， Java 后端转 Android Framework 开发，想请教各位前辈有没有什么指导与建议](https://www.v2ex.com/t/988753)
 1. [为什么大部分程序员独立开发者都赚不到钱？](https://www.v2ex.com/t/988828)
+1. [校招接了小米 offer， Java 后端转 Android Framework 开发，想请教各位前辈有没有什么指导与建议](https://www.v2ex.com/t/988753)
+1. [大家多久没用 QQ 了？](https://www.v2ex.com/t/988914)
 
 ## 历史归档
 
