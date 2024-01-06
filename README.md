@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2024-01-06 18:06:35 +0800`
+ `更新时间：2024-01-06 19:04:13 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [中上 211 计科本是否有必要保研本校电子信息专硕](https://www.v2ex.com/t/1006334)
 1. [nuejs 终将会取代前端的妖魔鬼怪](https://www.v2ex.com/t/1006306)
 1. [谈恋爱应该谈什么](https://www.v2ex.com/t/1006267)
-1. [node_modules 小文件真是多的离谱，服了！](https://www.v2ex.com/t/1006362)
+1. [分享 2023 年度我最爱的 5 个 iOS App](https://www.v2ex.com/t/1006335)
 
 ## 历史归档
 
