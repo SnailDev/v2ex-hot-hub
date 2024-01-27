@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2024-01-27 09:37:24 +0800`
+ `更新时间：2024-01-27 10:11:19 +0800`
 
 ## 热议话题
 
@@ -20,11 +20,11 @@
 1. [为什么 Laravel 这么优秀](https://www.v2ex.com/t/1011696)
 1. [你会有请假恐惧症吗？](https://www.v2ex.com/t/1011716)
 1. [为何不选 Hibernate,非要 MyBatis？](https://www.v2ex.com/t/1011737)
-1. [[求助]上初一的外甥喜欢编程，目前在学 Python ，春节送他什么礼物合适？](https://www.v2ex.com/t/1011670)
 1. [因为小时候原生家庭受的伤，导致长大了很多年还是无法愈合吗？](https://www.v2ex.com/t/1011778)
 1. [兄弟们，有没有年会一个奖都没中的，来聊聊](https://www.v2ex.com/t/1011843)
 1. [兄弟们，问个严肃的问题，高速堵车走应急车道是什么心理？](https://www.v2ex.com/t/1011805)
 1. [300 档机械键盘有没有可以推荐的呢？](https://www.v2ex.com/t/1011689)
+1. [深度使用小米 13Pro 半年后，又重新换回了 iPhone](https://www.v2ex.com/t/1011829)
 
 ## 历史归档
 
