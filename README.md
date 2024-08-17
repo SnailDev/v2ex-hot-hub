@@ -11,16 +11,15 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2024-08-17 10:28:38 +0800`
+ `更新时间：2024-08-17 11:08:06 +0800`
 
 ## 热议话题
 
 1. [因果关系和宿命论](https://www.v2ex.com/t/1065540)
 1. [用 vscode 开发 go，有点劝退](https://www.v2ex.com/t/1065554)
-1. [国庆准备去东京玩大概九天，有没有推荐的一些冷门有意思的景点？](https://www.v2ex.com/t/1065434)
 1. [为什么后端经常会出现不按接口定义的类型返回值呢](https://www.v2ex.com/t/1065606)
-1. [观《百万纳指》有感](https://www.v2ex.com/t/1065536)
 1. [我和 Tiny RDM 一起勇敢迈向了 1.2 版本](https://www.v2ex.com/t/1065503)
+1. [观《百万纳指》有感](https://www.v2ex.com/t/1065536)
 
 ## 历史归档
 
