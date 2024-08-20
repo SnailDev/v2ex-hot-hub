@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2024-08-20 09:58:41 +0800`
+ `更新时间：2024-08-20 10:33:33 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,8 @@
 1. [和老婆消费观念不同](https://www.v2ex.com/t/1066060)
 1. [go 新特性 range over func 没怎么看懂。。。。写库的时候用吗？](https://www.v2ex.com/t/1066038)
 1. [网易云崩了？ 502 Bad Gateway](https://www.v2ex.com/t/1066148)
-1. [家里进了一只超级大蜘蛛，怎么办？](https://www.v2ex.com/t/1066156)
+1. [黑神话，为什么这么火](https://www.v2ex.com/t/1066324)
+1. [关于我 8 月 20 号的请假原因](https://www.v2ex.com/t/1066313)
 
 ## 历史归档
 
