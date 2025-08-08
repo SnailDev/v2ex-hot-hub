@@ -11,17 +11,18 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2025-08-08 07:11:02 +0800`
+ `更新时间：2025-08-08 08:56:39 +0800`
 
 ## 热议话题
 
 1. [Solana Name Service](https://www.v2ex.com/t/1150717)
-1. [某宝奶茶免单卡大概率有--速度速度](https://www.v2ex.com/t/1150540)
 1. [14 年前， BTC 价格几十元人民币的时候，站长介绍 BTC 给大家，你错过了，现在，你还要错过$V2EX 吗？](https://www.v2ex.com/t/1150542)
 1. [最近 V2EX 赚了，开一轮打赏，请各位没有收到过打赏的留言，打赏前 50 名](https://www.v2ex.com/t/1150819)
 1. [V2 怎么输入 emoji，谁教教我，谢谢](https://www.v2ex.com/t/1150623)
 1. [我不是不孝，只是不想复制你们的人生：催婚二三事](https://www.v2ex.com/t/1150603)
-1. [有去过俄罗斯旅游的么？](https://www.v2ex.com/t/1150538)
+1. [最近去日本玩了 10 天，总结一下优缺点](https://www.v2ex.com/t/1150631)
+1. [鄙人姓成，给孩子取个名字](https://www.v2ex.com/t/1150785)
+1. [7 月份工作了 306 个小时](https://www.v2ex.com/t/1150703)
 
 ## 历史归档
 
