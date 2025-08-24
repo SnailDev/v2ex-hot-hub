@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2025-08-24 22:08:05 +0800`
+ `更新时间：2025-08-24 23:08:45 +0800`
 
 ## 热议话题
 
@@ -24,6 +24,7 @@
 1. [现在的 crypto 市场投机氛围非常重](https://www.v2ex.com/t/1154518)
 1. [看完小孩 2025 EWC 街霸六 卫冕冠军，很有感触](https://www.v2ex.com/t/1154540)
 1. [代申请 telegram API（appid）](https://www.v2ex.com/t/1154528)
+1. [解决 256g 丐版硬盘不足的问题（笑）](https://www.v2ex.com/t/1154575)
 
 ## 历史归档
 
