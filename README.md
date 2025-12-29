@@ -11,20 +11,18 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2025-12-29 11:04:24 +0800`
+ `更新时间：2025-12-29 12:39:41 +0800`
 
 ## 热议话题
 
 1. [2025 不足 3 天，说说你的遗憾](https://www.v2ex.com/t/1181799)
 1. [表弟要结婚了，彩礼 30 万。](https://www.v2ex.com/t/1181811)
-1. [2025 年，你最推荐哪部电影？](https://www.v2ex.com/t/1181737)
-1. [夜市小摊打包的塑料袋为什么还流行？](https://www.v2ex.com/t/1181698)
-1. [我的“傻逼”室友](https://www.v2ex.com/t/1181705)
 1. [真·Claude / Codex / Gemini -注册即送千万 TOKEN](https://www.v2ex.com/t/1181809)
-1. [最好的 rss 阅读器，有啥替代吗](https://www.v2ex.com/t/1181699)
+1. [2025 年，你最推荐哪部电影？](https://www.v2ex.com/t/1181737)
 1. [我看有人说 win11 正常安装得系统, 其实都是运行在虚拟机上的](https://www.v2ex.com/t/1181760)
-1. [小米 17ultra，感觉很不错啊，光学变焦，最喜欢光学的真实透亮了，讨厌数码味的照片！](https://www.v2ex.com/t/1181695)
 1. [肩旁脱臼后的思考。每人来分享一下极难恢复的运动损伤吧。](https://www.v2ex.com/t/1181745)
+1. [淘宝全球购，无权验假货](https://www.v2ex.com/t/1181823)
+1. [手里有 70 多的 USDC，放着不知道干嘛用，求解](https://www.v2ex.com/t/1181807)
 
 ## 历史归档
 
