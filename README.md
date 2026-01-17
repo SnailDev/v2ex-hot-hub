@@ -11,15 +11,15 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2026-01-17 18:11:01 +0800`
+ `更新时间：2026-01-17 19:08:49 +0800`
 
 ## 热议话题
 
 1. [结婚是不是都得要忍？？](https://www.v2ex.com/t/1186371)
 1. [令大家印象深刻的梗或吃瓜事件都有啥](https://www.v2ex.com/t/1186372)
 1. [很认真的问，我自己能否做出个人主页网站？](https://www.v2ex.com/t/1186333)
-1. [AI 很厉害，只是不会用罢了。我用 AI 写了个 13K 的软件，并开源了。](https://www.v2ex.com/t/1186306)
 1. [现在还有什么值得定投的](https://www.v2ex.com/t/1186381)
+1. [如果你是贾国龙可能更气急败坏](https://www.v2ex.com/t/1186458)
 1. [接之前几天发的被叫去派出所的后续](https://www.v2ex.com/t/1186356)
 1. [Apple Pay 绑 Visa 购买苹果礼品卡也太玄学了？](https://www.v2ex.com/t/1186354)
 1. [Google Antigravity 使用过程中遇到的一些问题。](https://www.v2ex.com/t/1186388)
