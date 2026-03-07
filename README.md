@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2026-03-07 18:13:04 +0800`
+ `更新时间：2026-03-07 19:10:52 +0800`
 
 ## 热议话题
 
@@ -20,11 +20,11 @@
 1. [GPT-5.4 Thinking 依然过不了洗车测试](https://www.v2ex.com/t/1196407)
 1. [搓了一个把内容变成分享卡片的扩展程序，轻喷，前 20 楼送 20 个兑换码](https://www.v2ex.com/t/1196408)
 1. [很多人不看好 macbook neo,大胆预测一波会卖爆](https://www.v2ex.com/t/1196496)
-1. [我靠， MacBook neo 叠加教育优惠和国补， 3399！？](https://www.v2ex.com/t/1196452)
+1. [claude code 使用哪家国内 api 靠谱](https://www.v2ex.com/t/1196478)
 1. [这两天找工作找到自闭](https://www.v2ex.com/t/1196402)
+1. [我靠， MacBook neo 叠加教育优惠和国补， 3399！？](https://www.v2ex.com/t/1196452)
 1. [和双相恋爱 3 年被分手，我丢了半条命](https://www.v2ex.com/t/1196429)
 1. [市场冷清，全栈消失，金三不在，即便有全栈的部署项目都无人问津，不知道大家是否同样的感受](https://www.v2ex.com/t/1196448)
-1. [简单体验了一下 openClaw，说说自己的看法](https://www.v2ex.com/t/1196394)
 
 ## 历史归档
 
