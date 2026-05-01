@@ -11,18 +11,17 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2026-05-01 19:00:06 +0800`
+ `更新时间：2026-05-01 19:59:46 +0800`
 
 ## 热议话题
 
-1. [从 2026 年后开始，就没手写过代码了，全部 ai 写，我也知道我的职业要完了](https://www.v2ex.com/t/1209740)
-1. [iOS 无法收到 TG 的通知](https://www.v2ex.com/t/1209797)
 1. [顺风车已经变味了](https://www.v2ex.com/t/1209795)
+1. [iOS 无法收到 TG 的通知](https://www.v2ex.com/t/1209797)
 1. [领到小米 MIMO 的额度了，大家领了多少？](https://www.v2ex.com/t/1209799)
 1. [很多人把 Claude 读成 cloud](https://www.v2ex.com/t/1209761)
-1. [Anthropic 真是绝了，刚收完钱就把我踢了](https://www.v2ex.com/t/1209737)
 1. [家在小县城的农村，老婆在省会的郊区，如果把我的户口迁过来是不是违背祖宗了？](https://www.v2ex.com/t/1209774)
 1. [恳请过来人分享面瘫治疗经验](https://www.v2ex.com/t/1209832)
+1. [感慨下，假期第一天，被裁了](https://www.v2ex.com/t/1209838)
 
 ## 历史归档
 
