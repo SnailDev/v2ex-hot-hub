@@ -11,18 +11,18 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2026-05-01 09:54:34 +0800`
+ `更新时间：2026-05-01 13:32:55 +0800`
 
 ## 热议话题
 
-1. [小米股票跌倒 29 了，快补仓](https://www.v2ex.com/t/1209564)
-1. [Google 可以修改 gmail 账号了，激动！](https://www.v2ex.com/t/1209583)
-1. [庆幸之前选择了广度而不是深度](https://www.v2ex.com/t/1209586)
-1. [一个主要用于家庭影音资源管理软件，支持 ios、android、macos、windows 等，补充下截图。](https://www.v2ex.com/t/1209606)
-1. [毕业了朋友们，今日 Last Day](https://www.v2ex.com/t/1209605)
 1. [从 2026 年后开始，就没手写过代码了，全部 ai 写，我也知道我的职业要完了](https://www.v2ex.com/t/1209740)
+1. [HyperAPI 订阅套餐上线，注册送 5$，评论留邮箱，发 10$兑换码](https://www.v2ex.com/t/1209647)
 1. [五一前的最后一个下午了，还有多少人在认真工作](https://www.v2ex.com/t/1209672)
-1. [求大家推荐一些言论自由的日记网站或者软件](https://www.v2ex.com/t/1209626)
+1. [你们在用什么数据库管理软件？](https://www.v2ex.com/t/1209676)
+1. [Anthropic 真是绝了，刚收完钱就把我踢了](https://www.v2ex.com/t/1209737)
+1. [Codex 对比 Claude Code](https://www.v2ex.com/t/1209638)
+1. [国家超算平台也出 coding plan 了](https://www.v2ex.com/t/1209689)
+1. [很多人把 Claude 读成 cloud](https://www.v2ex.com/t/1209761)
 
 ## 历史归档
 
