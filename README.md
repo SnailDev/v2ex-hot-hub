@@ -11,19 +11,20 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2026-06-06 11:36:40 +0800`
+ `更新时间：2026-06-06 14:44:51 +0800`
 
 ## 热议话题
 
-1. [美国家宽， 苹果内购，正规使用， 从无反代， ChatGPT 账号被封， 谁能告诉我原因。](https://www.v2ex.com/t/1218155)
 1. [大家是怎么使用 AI 的，真能做到不手写代码吗，在我手里感觉是个智障。。。](https://www.v2ex.com/t/1218201)
-1. [被裁了](https://www.v2ex.com/t/1218162)
 1. [找一个程序员搭子，互相鼓励](https://www.v2ex.com/t/1218189)
-1. [中转站 10 天破 500 用户庆典 所有套餐限时八折 注册送体验额度!](https://www.v2ex.com/t/1218143)
-1. [看很多人用 codex 被封号的，想统计一下原因](https://www.v2ex.com/t/1218212)
+1. [现在在国内还有办法注册 Google 账号吗？](https://www.v2ex.com/t/1218362)
 1. [为什么 AI 现在这么火，却很少有行业真的铺开呢？](https://www.v2ex.com/t/1218246)
+1. [看很多人用 codex 被封号的，想统计一下原因](https://www.v2ex.com/t/1218212)
 1. [windows 终将成为最好的 Linux](https://www.v2ex.com/t/1218268)
-1. [三十多了，自己以后养老怎么办](https://www.v2ex.com/t/1218169)
+1. [Google 秒收录，秀一秀欢迎提交您的 vibe coding 作品](https://www.v2ex.com/t/1218305)
+1. [人过 30 岁真的不是为自己而活了](https://www.v2ex.com/t/1218371)
+1. [API 中转站， V2 朋友可享永久 8 折](https://www.v2ex.com/t/1218314)
+1. [总结一下这次 OpenAI 封号的问题，同时谈谈大家忽略的一个问题（可能这才是封号的元凶）](https://www.v2ex.com/t/1218326)
 
 ## 历史归档
 
