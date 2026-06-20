@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2026-06-20 17:56:30 +0800`
+ `更新时间：2026-06-20 19:50:51 +0800`
 
 ## 热议话题
 
@@ -19,11 +19,11 @@
 1. [来说说🪜的客户端](https://www.v2ex.com/t/1221607)
 1. [一个 reCAPTCHA 把我骗到重装系统，分享出来给大家提个醒](https://www.v2ex.com/t/1221581)
 1. [用惯了 MacOS 启动台 Launchpad，于是我创建了 Windows 版的 Launchpad](https://www.v2ex.com/t/1221570)
-1. [前端界面比想象中复杂好多](https://www.v2ex.com/t/1221555)
 1. [iPhone17 凌晨异常使用蜂窝数据欠费 500 多](https://www.v2ex.com/t/1221604)
+1. [我明明选的是 GLM-4.7，他告诉我他是 Claude。](https://www.v2ex.com/t/1221642)
+1. [刚转行做猎头，你们最想在招聘信息里面看到什么？](https://www.v2ex.com/t/1221582)
 1. [好难受, 现在是不是 GLM 最适合我了](https://www.v2ex.com/t/1221559)
 1. [请教一下 VIM 怎么做到类似 idea ide 一样识别函数，自动跳转，查看引用？](https://www.v2ex.com/t/1221563)
-1. [刚转行做猎头，你们最想在招聘信息里面看到什么？](https://www.v2ex.com/t/1221582)
 1. [没天理啦。 Claude 昨天更新了额度。 今天又重置额度变成 0% 啦。](https://www.v2ex.com/t/1221598)
 
 ## 历史归档
