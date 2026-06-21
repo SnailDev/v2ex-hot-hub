@@ -11,18 +11,20 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2026-06-21 08:00:28 +0800`
+ `更新时间：2026-06-21 13:51:12 +0800`
 
 ## 热议话题
 
-1. [问一个直击灵魂的问题，你用 AI 做了哪些有意义的工具？](https://www.v2ex.com/t/1221614)
 1. [Vibe Coding 了两年，分享一下我对于 Vibe 的感想。](https://www.v2ex.com/t/1221657)
 1. [我明明选的是 GLM-4.7，他告诉我他是 Claude。](https://www.v2ex.com/t/1221642)
 1. [航班因乘客违规使用充电宝迫降，此人是不是这辈子就差不多了？](https://www.v2ex.com/t/1221647)
-1. [iPhone17 凌晨异常使用蜂窝数据欠费 500 多](https://www.v2ex.com/t/1221604)
 1. [[陈恳求助] 现在能买的 VPS 线路有哪些](https://www.v2ex.com/t/1221665)
-1. [发现自己越来越不爱社交了，这是变成熟还是变麻木？](https://www.v2ex.com/t/1221608)
+1. [突然发现拼多多居然没有做网贷](https://www.v2ex.com/t/1221710)
+1. [周末好无聊啊！有点为退休后无事可做发愁了](https://www.v2ex.com/t/1221719)
 1. [问一下大家，为什么 Outlook 邮箱那么不受待见？](https://www.v2ex.com/t/1221638)
+1. [FaceTime 不同人使用反馈](https://www.v2ex.com/t/1221689)
+1. [米家空调的型号也太多了，我似乎分不清国补完 1500 左右，哪个 1.5P 比较合适了](https://www.v2ex.com/t/1221694)
+1. [针对同一问题， Claude 和 Gemini 的实践对比。](https://www.v2ex.com/t/1221666)
 
 ## 历史归档
 
