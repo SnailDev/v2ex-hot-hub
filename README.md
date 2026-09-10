@@ -11,22 +11,20 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2026-09-10 14:47:29 +0800`
+ `更新时间：2026-09-10 19:56:23 +0800`
 
 ## 热议话题
 
 1. [iPhone Duo 并没有多惊艳](https://www.v2ex.com/t/1240866)
-1. [汤家凤与胡锡进英语主科争议事件总结（网友戏称 “胡辣汤大战”）](https://www.v2ex.com/t/1240711)
-1. [咸鱼的小法庭机制真是妙啊](https://www.v2ex.com/t/1240703)
 1. [高一男孩从班里前四滑到不敢进学校，请假在家也焦虑，有过来人吗？](https://www.v2ex.com/t/1240822)
+1. [如何充值 chatgpt？ 救救孩子吧](https://www.v2ex.com/t/1240984)
+1. [为啥现在华为风评变化这么大](https://www.v2ex.com/t/1241048)
 1. [东京夜生活-脱衣舞秀初体验](https://www.v2ex.com/t/1240875)
+1. [现在教师节收礼已经这么明目张胆了吗](https://www.v2ex.com/t/1240939)
 1. [油皮有没有性价比高的洗面奶和爽肤水推荐？](https://www.v2ex.com/t/1240880)
-1. [苹果首款折叠屏手机名字敲定就叫 iPhone Duo
-
-Duo 怎么读呢 多?嘟噢?](https://www.v2ex.com/t/1240720)
+1. [openai，我 qnmd！](https://www.v2ex.com/t/1241024)
+1. [感觉手里的 12pm 快坚持不住了，换的话推荐换哪款](https://www.v2ex.com/t/1240889)
 1. [头大，到底要怎么宣传自己的产品啊](https://www.v2ex.com/t/1240867)
-1. [人在美国，可以帮助到国内兄弟做什么呢？](https://www.v2ex.com/t/1240781)
-1. [你们平时在哪里买牛奶和鸡蛋？](https://www.v2ex.com/t/1240868)
 
 ## 历史归档
 
