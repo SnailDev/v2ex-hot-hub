@@ -11,18 +11,19 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2026-09-11 09:53:45 +0800`
+ `更新时间：2026-09-11 14:47:01 +0800`
 
 ## 热议话题
 
-1. [如何充值 chatgpt？ 救救孩子吧](https://www.v2ex.com/t/1240984)
-1. [现在教师节收礼已经这么明目张胆了吗](https://www.v2ex.com/t/1240939)
-1. [[AI ask me] 自用 API 中转站分享，注册就送 $11，叠加倍率可到 $110！](https://www.v2ex.com/t/1241018)
-1. [AirPods 5 应该算是等等党胜利的一集吧，音质/降噪/续航提升，价格下降（主动降噪）](https://www.v2ex.com/t/1240959)
-1. [程序员未来会怎么样? 我们的护城河感觉已经干涸了](https://www.v2ex.com/t/1240910)
-1. [ai 编程目前依然是普通人最好的杠杆](https://www.v2ex.com/t/1240993)
-1. [你们觉得现在用哪个技术栈还重要吗？](https://www.v2ex.com/t/1240932)
+1. [Anthropic 点名多家中国公司蒸馏 Claude，包括 Qwen, kimi, deepseek, glm, xiaomi, Minimax](https://www.v2ex.com/t/1241298)
+1. [大家会跟同事或者领导说自己用 Ai 完成需求吗？](https://www.v2ex.com/t/1241204)
+1. [把老站重做了一遍： Windows 10/11 精简版、全量版、LTSC，装完基本不用再配](https://www.v2ex.com/t/1241226)
+1. [躺平是不是版本答案？](https://www.v2ex.com/t/1241205)
+1. [一直有个疑问，感觉用 cursor 的人很少](https://www.v2ex.com/t/1241125)
 1. [Duo 真的很不苹果](https://www.v2ex.com/t/1241080)
+1. [更新下广州前端工程师这两个礼拜找工作的情况](https://www.v2ex.com/t/1241146)
+1. [最近几月大家用 ai 开发之后，还会加班吗？](https://www.v2ex.com/t/1241211)
+1. [iPhone Duo 的销量关键就在销量上](https://www.v2ex.com/t/1241092)
 
 ## 历史归档
 
