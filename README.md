@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2026-09-13 01:30:40 +0800`
+ `更新时间：2026-09-13 03:48:57 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,7 @@
 1. [vibe coding 的代码你怎么放心上线？](https://www.v2ex.com/t/1241529)
 1. [不要买 .top 域名，会变得不幸：分享下最近这几天和江苏邦宁科技 (.top 域名注册局) 扯皮的经历](https://www.v2ex.com/t/1241515)
 1. [华为阔直板手机真神啊，三星什么时候出 Galaxy Wide 啊](https://www.v2ex.com/t/1241528)
-1. [木椅子坐久了，经常屁股有汗，会黏住裤衩，好不透气，怎么办](https://www.v2ex.com/t/1241486)
+1. [有一说一， DeepSeek V4.1 跑分还行，但实测还是和 Astra 有巨大差距](https://www.v2ex.com/t/1241596)
 1. [你们有没有觉得 DeepSeek V4.1 Flash 也开始不说人话了?](https://www.v2ex.com/t/1241496)
 
 ## 历史归档
