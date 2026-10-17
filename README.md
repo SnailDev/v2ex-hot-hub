@@ -11,17 +11,18 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2026-10-17 09:57:43 +0800`
+ `更新时间：2026-10-17 14:28:40 +0800`
 
 ## 热议话题
 
-1. [Bref： iPhone 、 iPad 、Mac 与 Apple TV 多平台支持的媒体播放器，欢迎大家体验 [送码]](https://www.v2ex.com/t/1249294)
-1. [做了个网页电台：随机一站，听听世界上 3.5 万个电台此刻在播什么](https://www.v2ex.com/t/1249321)
-1. [特斯拉有的我们都有😝](https://www.v2ex.com/t/1249270)
-1. [企微聊天就和裸聊差不多](https://www.v2ex.com/t/1249287)
-1. [如何处理食之无味弃之可惜的老数码产品](https://www.v2ex.com/t/1249305)
-1. [大佬们带带弟弟， Codex 登录要电话验证怎么办](https://www.v2ex.com/t/1249260)
 1. [如何评价 rea 逆向一切？](https://www.v2ex.com/t/1249389)
+1. [有目前稳定可靠的订阅 gpt plus 的方法吗，分享分享，人在大陆](https://www.v2ex.com/t/1249365)
+1. [抑郁症的人到底在想些什么？](https://www.v2ex.com/t/1249406)
+1. [为何我国公安系统对遛狗不栓绳问题非常漠视呢？](https://www.v2ex.com/t/1249536)
+1. [大龄程序员 2 个 offer 如何选择啊，纠结。。。](https://www.v2ex.com/t/1249437)
+1. [房子卖了，赔了 37%](https://www.v2ex.com/t/1249412)
+1. [备货这么充足嘛， iPhone Duo 官网购买很顺利](https://www.v2ex.com/t/1249458)
+1. [好哥哥们，俺能赚多少呀🤭](https://www.v2ex.com/t/1249468)
 
 ## 历史归档
 
