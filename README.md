@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2026-10-24 19:42:12 +0800`
+ `更新时间：2026-10-24 23:00:29 +0800`
 
 ## 热议话题
 
@@ -20,11 +20,11 @@
 1. [用单位电脑开代理，如何逃避后台监测？](https://www.v2ex.com/t/1251432)
 1. [月入零到月入百刀，自已没变，外人一直在变。](https://www.v2ex.com/t/1251417)
 1. [Personal Agent 大家平时都拿来干啥？都有啥定时任务？](https://www.v2ex.com/t/1251415)
-1. [做了个 Vibe Coding 展示站，天天更新却没人投稿](https://www.v2ex.com/t/1251357)
 1. [Kimi K3.1 Pro 发布, 比 K3 快、性能逼近 Opus，但额度 10 分钟就烧光了](https://www.v2ex.com/t/1251425)
 1. [来了一个到处搬运帖子起号的用户：@cjkcjkcjk](https://www.v2ex.com/t/1251407)
 1. [国行 iPhone Duo 如何在境内写入境外 eSIM？](https://www.v2ex.com/t/1251454)
-1. [做匿名举报系统，难的不是表单，而是权限模型与动态隔离](https://www.v2ex.com/t/1251413)
+1. [智友社回馈 V 站新老客户，抽送第 11 波 5 个 智友社的 GPTPLUS 稳定特殊渠道日区独享月卡成品号 6](https://www.v2ex.com/t/1251411)
+1. [有没有人知道这是什么面试套路](https://www.v2ex.com/t/1251423)
 
 ## 历史归档
 
