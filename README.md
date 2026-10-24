@@ -11,11 +11,10 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2026-10-25 02:25:31 +0800`
+ `更新时间：2026-10-25 05:17:42 +0800`
 
 ## 热议话题
 
-1. [为什么很多人都把 DeepSeek 神化了，看不起国内豆包和其它 LLM？](https://www.v2ex.com/t/1251402)
 1. [别说开发了, 这把运维真给干没了把](https://www.v2ex.com/t/1251410)
 1. [用单位电脑开代理，如何逃避后台监测？](https://www.v2ex.com/t/1251432)
 1. [特斯拉到底有什么魔力, 销量这么高的毛坯房](https://www.v2ex.com/t/1251551)
@@ -25,6 +24,7 @@
 1. [智友社回馈 V 站新老客户，抽送第 11 波 5 个 智友社的 GPTPLUS 稳定特殊渠道日区独享月卡成品号 6](https://www.v2ex.com/t/1251411)
 1. [国行 iPhone Duo 如何在境内写入境外 eSIM？](https://www.v2ex.com/t/1251454)
 1. [来了一个到处搬运帖子起号的用户：@cjkcjkcjk](https://www.v2ex.com/t/1251407)
+1. [现在新号订阅是不是必被 KYC](https://www.v2ex.com/t/1251445)
 
 ## 历史归档
 
