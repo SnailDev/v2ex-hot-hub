@@ -11,19 +11,19 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2026-10-25 15:53:21 +0800`
+ `更新时间：2026-10-25 20:49:36 +0800`
 
 ## 热议话题
 
 1. [特斯拉到底有什么魔力, 销量这么高的毛坯房](https://www.v2ex.com/t/1251551)
 1. [大龄单身青年晚上都干啥](https://www.v2ex.com/t/1251553)
-1. [之前加入等候名单的 MUSE，现在开通了](https://www.v2ex.com/t/1251500)
-1. [大家现在上班每天早餐消费多少钱？](https://www.v2ex.com/t/1251530)
-1. [为什么突然出现那么多类 ARC 浏览器](https://www.v2ex.com/t/1251519)
 1. [Bing 中国大陆搜索是否存在对部分国外网站的刻意降权或隐藏？](https://www.v2ex.com/t/1251598)
-1. [一个中年离职程序员的碎碎念&求职一份 AI 相关的工作](https://www.v2ex.com/t/1251496)
+1. [[Day 20] - 10.25 - Tibo 又要重置了](https://www.v2ex.com/t/1251616)
+1. [有什么工具可以测试鼠标的微动是否有问题](https://www.v2ex.com/t/1251609)
 1. [claude 支持中国了？](https://www.v2ex.com/t/1251557)
-1. [入职某央企外包快崩不住了](https://www.v2ex.com/t/1251513)
+1. [搓了一个“V2EX 评论上下文”的 chrome 插件，方便 V 友阅读评论](https://www.v2ex.com/t/1251601)
+1. [codex 最新的功能，居然和我之前做的小功能如此雷同](https://www.v2ex.com/t/1251621)
+1. [有没有发现一个奇怪的现象？](https://www.v2ex.com/t/1251636)
 
 ## 历史归档
 
