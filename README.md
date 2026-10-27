@@ -11,11 +11,10 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2026-10-28 02:29:23 +0800`
+ `更新时间：2026-10-28 06:43:46 +0800`
 
 ## 热议话题
 
-1. [深夜求助，物业只提前 1 小时通知停电，导致我家里电脑坏了](https://www.v2ex.com/t/1252074)
 1. [请问一下 v 友们平常都是喝什么水的？](https://www.v2ex.com/t/1252085)
 1. [《关于我和一个教师恋爱一年的经历》后续](https://www.v2ex.com/t/1252184)
 1. [iPhone Duo 有感](https://www.v2ex.com/t/1252088)
@@ -23,6 +22,7 @@
 1. [这是你印象中的 WinXP 吗，一起回到 2005 吧](https://www.v2ex.com/t/1252173)
 1. [35➕真的是老了吗](https://www.v2ex.com/t/1252134)
 1. [做了个跨 Mac / Windows / Linux 的剪贴板工具 Zipover，送 30 份授权](https://www.v2ex.com/t/1252166)
+1. [大家的程序坞放哪里？](https://www.v2ex.com/t/1252133)
 
 ## 历史归档
 
