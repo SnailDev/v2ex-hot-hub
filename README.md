@@ -11,20 +11,18 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2026-10-27 09:40:45 +0800`
+ `更新时间：2026-10-27 14:58:10 +0800`
 
 ## 热议话题
 
-1. [大家有没有好看的电视剧推荐，最近出的，经典的都行](https://www.v2ex.com/t/1251787)
-1. [媳妇上个月辞职出来创业了](https://www.v2ex.com/t/1251868)
-1. [佬们推荐个机场，花云太差了](https://www.v2ex.com/t/1251841)
-1. [反思了下，原来我是个黄毛](https://www.v2ex.com/t/1251781)
+1. [深夜求助，物业只提前 1 小时通知停电，导致我家里电脑坏了](https://www.v2ex.com/t/1252074)
 1. [坠机日，大妈和瓦工 3 台机器都阵亡了](https://www.v2ex.com/t/1251991)
+1. [请问一下 v 友们平常都是喝什么水的？](https://www.v2ex.com/t/1252085)
 1. [你们是如何和岳父岳母相处的](https://www.v2ex.com/t/1251970)
-1. [周一刚开工，就面谈通知被裁，心情复杂](https://www.v2ex.com/t/1251815)
+1. [iPhone Duo 有感](https://www.v2ex.com/t/1252088)
 1. [AI vibe coding 的进展，不知道程序员还能存活多久？](https://www.v2ex.com/t/1251976)
-1. [大家一个月可以存下多少钱](https://www.v2ex.com/t/1251794)
-1. [self-host 代码仓库，各位老哥公司里都是什么方案？](https://www.v2ex.com/t/1251810)
+1. [35➕真的是老了吗](https://www.v2ex.com/t/1252134)
+1. [iPad mini 更新 还是祖传 60hz](https://www.v2ex.com/t/1252032)
 
 ## 历史归档
 
