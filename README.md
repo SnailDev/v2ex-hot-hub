@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2026-10-27 20:56:38 +0800`
+ `更新时间：2026-10-28 02:29:23 +0800`
 
 ## 热议话题
 
@@ -19,10 +19,10 @@
 1. [请问一下 v 友们平常都是喝什么水的？](https://www.v2ex.com/t/1252085)
 1. [《关于我和一个教师恋爱一年的经历》后续](https://www.v2ex.com/t/1252184)
 1. [iPhone Duo 有感](https://www.v2ex.com/t/1252088)
-1. [这是你印象中的 WinXP 吗，一起回到 2005 吧](https://www.v2ex.com/t/1252173)
 1. [[送码] Mu3ic 重磅更新！支持车机播放和电台，完美横屏播放， Navidrome 最佳播放器， Nas 音乐玩家的优选](https://www.v2ex.com/t/1252164)
+1. [这是你印象中的 WinXP 吗，一起回到 2005 吧](https://www.v2ex.com/t/1252173)
 1. [35➕真的是老了吗](https://www.v2ex.com/t/1252134)
-1. [iPad mini 更新 还是祖传 60hz](https://www.v2ex.com/t/1252032)
+1. [做了个跨 Mac / Windows / Linux 的剪贴板工具 Zipover，送 30 份授权](https://www.v2ex.com/t/1252166)
 
 ## 历史归档
 
