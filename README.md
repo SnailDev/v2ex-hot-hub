@@ -11,18 +11,19 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2026-10-30 10:14:48 +0800`
+ `更新时间：2026-10-30 17:13:25 +0800`
 
 ## 热议话题
 
-1. [亲戚来上海找工作想在我家打地铺，老婆不乐意，我妈说我不懂人情世故](https://www.v2ex.com/t/1252878)
-1. [被裁了，今天最后一天。](https://www.v2ex.com/t/1252775)
-1. [Android 全平台纯自研内核 IPTV 播放器，各种格式都可以快速起播](https://www.v2ex.com/t/1252867)
-1. [准备卸载红果了](https://www.v2ex.com/t/1252841)
-1. [OpenAI 有个小福利 去领一下](https://www.v2ex.com/t/1252772)
-1. [我们只是普通人吗](https://www.v2ex.com/t/1252838)
-1. [群晖 DSM+Gitlab CE 遭 C3RB3R 勒索软件攻击！救灾直播贴](https://www.v2ex.com/t/1252851)
-1. [100 块钱+一个下午的时间你会做什么？](https://www.v2ex.com/t/1252815)
+1. [就是想买，有人劝醒我么？](https://www.v2ex.com/t/1253091)
+1. [第一次相亲的一点情况](https://www.v2ex.com/t/1253104)
+1. [关于达泊西汀，我有句话想说，时间短的兄弟们建议看看](https://www.v2ex.com/t/1252936)
+1. [我没有任何办法用 Claude 了吗？](https://www.v2ex.com/t/1253076)
+1. [这算是被阴阳了吗？](https://www.v2ex.com/t/1253030)
+1. [为啥这帮煞笔前端设计师，把 PC WEB 滚动条 搞 那么细？](https://www.v2ex.com/t/1253068)
+1. [有女朋友但是看到胸大屁股大的女生内心还是蠢蠢欲动](https://www.v2ex.com/t/1253134)
+1. [裁员了公司只想给 3 个月 在公司工作了 9 年多了-伤心](https://www.v2ex.com/t/1252917)
+1. [失业 2 个月, 看了红果一个半月, 今天卸载红果 2 天了](https://www.v2ex.com/t/1253038)
 
 ## 历史归档
 
