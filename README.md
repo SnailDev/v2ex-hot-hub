@@ -11,19 +11,18 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2026-10-30 06:09:39 +0800`
+ `更新时间：2026-10-30 10:14:48 +0800`
 
 ## 热议话题
 
 1. [亲戚来上海找工作想在我家打地铺，老婆不乐意，我妈说我不懂人情世故](https://www.v2ex.com/t/1252878)
-1. [[送码] 做了个本地影音库 Inscura，支持电影剧集刮削和本地 Ai 画面检索（Mac/Windows）](https://www.v2ex.com/t/1252752)
-1. [兄弟们， MacBook Pro 经典 LOGO 发光的重新回归，有点小激动啊](https://www.v2ex.com/t/1252716)
-1. [听说最近群晖中招了， V 友们知道是什么情况吗？非群晖 NAS 用户需要注意什么？](https://www.v2ex.com/t/1252735)
-1. [新款 MacBook 的触摸屏真的有用吗？](https://www.v2ex.com/t/1252725)
-1. [现在的 AI 是不是能达到或者超越一个标准本科生了？？](https://www.v2ex.com/t/1252733)
 1. [被裁了，今天最后一天。](https://www.v2ex.com/t/1252775)
-1. [[公益站] 迫于 token 太多，秉持不浪费的原则分享给大家使用而开站。](https://www.v2ex.com/t/1252726)
+1. [Android 全平台纯自研内核 IPTV 播放器，各种格式都可以快速起播](https://www.v2ex.com/t/1252867)
+1. [准备卸载红果了](https://www.v2ex.com/t/1252841)
 1. [OpenAI 有个小福利 去领一下](https://www.v2ex.com/t/1252772)
+1. [我们只是普通人吗](https://www.v2ex.com/t/1252838)
+1. [群晖 DSM+Gitlab CE 遭 C3RB3R 勒索软件攻击！救灾直播贴](https://www.v2ex.com/t/1252851)
+1. [100 块钱+一个下午的时间你会做什么？](https://www.v2ex.com/t/1252815)
 
 ## 历史归档
 
