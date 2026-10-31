@@ -11,19 +11,20 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2026-10-31 15:40:35 +0800`
+ `更新时间：2026-10-31 21:58:53 +0800`
 
 ## 热议话题
 
-1. [一旦动了离婚的念头，结局是不是基本确定了？](https://www.v2ex.com/t/1253314)
 1. [求助： 10GB 音乐文件如何高速分享给好友？网盘限速、微信限大小， NAS 也受运营商上行限制](https://www.v2ex.com/t/1253376)
-1. [大家从事程序开发工作几年了](https://www.v2ex.com/t/1253339)
 1. [AI 时代少有人类阅读，我开始建自己的独立站，但真的是 49 年入国军吗](https://www.v2ex.com/t/1253343)
+1. [一旦动了离婚的念头，结局是不是基本确定了？](https://www.v2ex.com/t/1253314)
+1. [大家从事程序开发工作几年了](https://www.v2ex.com/t/1253339)
 1. [Loon 用可莉插件的注意一下，后续插件内容会被加密](https://www.v2ex.com/t/1253305)
 1. [现在教育真的太卷了，一年级上学期期中测验趣事](https://www.v2ex.com/t/1253357)
-1. [Claude 账号要怎么注册？](https://www.v2ex.com/t/1253238)
 1. [台湾 Claude 号生意有搞头吗](https://www.v2ex.com/t/1253348)
-1. [这波后，我应该不会再碰大 A 了](https://www.v2ex.com/t/1253229)
+1. [claude 似乎 今天对 pro 和 free 用户执行 ID verification 了](https://www.v2ex.com/t/1253347)
+1. [大家目前被封禁了几个 Claude 账户？](https://www.v2ex.com/t/1253335)
+1. [LockSticky 喜提大陆 App Store 下架](https://www.v2ex.com/t/1253370)
 
 ## 历史归档
 
