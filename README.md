@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2026-11-02 19:46:26 +0800`
+ `更新时间：2026-11-03 04:58:43 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [agent 的代码到底审不审核](https://www.v2ex.com/t/1253699)
 1. [[HyperAPI 中转站]的新老用户来领鸡蛋了，评论留 ID，送$10 体验额度](https://www.v2ex.com/t/1253677)
 1. [现在的行情真的很冷](https://www.v2ex.com/t/1253652)
-1. [ESP Mosaico 这种概念的出现，让 AI 彻底攻破了嵌入式应用开发的护城河](https://www.v2ex.com/t/1253635)
+1. [AI 普及之后，应该把所有 Electron 重写为 native](https://www.v2ex.com/t/1253744)
 
 ## 历史归档
 
