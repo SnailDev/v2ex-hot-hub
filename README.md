@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/snaildev/douyin-hot-hub)
 
 
- `更新时间：2026-11-15 02:34:21 +0800`
+ `更新时间：2026-11-15 06:47:41 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [睡前安排了一整晚的 agent 全自动任务，一觉醒来被 Windows 自动更新重启杀了](https://www.v2ex.com/t/1257008)
 1. [换了个新 macbook air m5 有没有推荐的软件安装](https://www.v2ex.com/t/1257002)
 1. [最近做了一个运行在 iPhone 的 agent](https://www.v2ex.com/t/1256987)
-1. [家里用 PVE 做软路由，想和同好交流一下，也可远程帮看（长春可上门）](https://www.v2ex.com/t/1256986)
+1. [求助: 想在寝室搞一个小主机 有推荐么?](https://www.v2ex.com/t/1257109)
 
 ## 历史归档
 
